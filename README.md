@@ -1,6 +1,6 @@
 # Time-Table-Management-System
 Project Overview:
-The Time Table Management System (TTMS) is a web-based application built using PHP, JavaScript, and CSS, deployed on the XAMPP web server platform. It offers a user-friendly interface accessible via web browsers, providing faculty, staff, and students with easy access to class schedules, resource allocation, and real-time updates.
+The Time Table Management System (TTMS) is a web-based application built using PHP, JavaScript, SQL and CSS, deployed on the XAMPP web server platform. It offers a user-friendly interface accessible via web browsers, providing faculty, staff, and students with easy access to class schedules, resource allocation, and real-time updates.
 
 Key Features:
 
